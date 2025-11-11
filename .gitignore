@@ -1,0 +1,54 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# JavaFX SDK (don't upload these!)
+javafx-sdk/
+javafx-sdk-*/
+lib/javafx*
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.eclipse/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+out/
+bin/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
