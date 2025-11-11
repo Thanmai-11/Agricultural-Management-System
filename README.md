@@ -130,7 +130,7 @@ AMS/
 - **AMS**: Main JavaFX Application class
 
 ## Screenshots
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## Future Enhancements
 - 💾 Database integration (MySQL/PostgreSQL)
@@ -145,9 +145,6 @@ AMS/
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 Thanmai
